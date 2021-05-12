@@ -1,9 +1,7 @@
 ### Hi there 👋 This is a test for a markdown file on my profile
 
 Here is a visual representation if my cooking skills were as good as my GitHub skills 
-```{r,echo = FALSE,fig.align='center',out.width="60%"}
-knitr::include_graphics('pictures/burning_pasta.jpg')
-```
+<a><img src='pictures/burning_pasta.jpg' align="center" height="350" /></a>
 
 <!--
 **larscaspersen/larscaspersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
