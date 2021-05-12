@@ -1,7 +1,9 @@
 ### Hi there 👋 This is a test for a markdown file on my profile
 
 Here is a visual representation if my cooking skills were as good as my GitHub skills 
+
 <a><img src='pictures/burning_pasta.jpg' align="center" height="250" /></a>
+
 But I am confident that they will flourish and sooner or later I will create repository which are not only palatable but also enjoyable
 <!--
 **larscaspersen/larscaspersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
