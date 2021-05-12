@@ -4,7 +4,7 @@ Here is a visual representation if my cooking skills were as good as my GitHub s
 
 <a><img src='pictures/burning_pasta.jpg' align="center" height="250" /></a>
 
-But I am confident that they will flourish and sooner or later I will create repository which are not only palatable but also enjoyable. Please check out my awesome draft to explain the spatial interpolation method for safe winter chill of deciduous fruit trees in South America, which you can find [here](http://htmlpreview.github.io/?EduardoFernandezC/chill_south_america/lars_may_07/explain-interpolation-concept.html).
+But I am confident that they will flourish and sooner or later I will create repository which are not only palatable but also enjoyable. Please check out my awesome draft to explain the spatial interpolation method for safe winter chill of deciduous fruit trees in South America, which you can find [here](http://htmlpreview.github.io/?https://github.com/larscaspersen/larscaspersen/blob/04f00c40a5f30655d6970e498b419910726da1da/explain-interpolation-concept.html).
 <!--
 **larscaspersen/larscaspersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
