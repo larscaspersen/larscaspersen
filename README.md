@@ -1,10 +1,4 @@
-### Hi there 👋 This is a test for a markdown file on my profile
-
-Here is a visual representation if my cooking skills were as good as my GitHub skills 
-
-<a><img src='pictures/burning_pasta.jpg' align="center" height="250" /></a>
-
-But I am confident that they will flourish and sooner or later I will create repository which are not only palatable but also enjoyable. Please check out my awesome draft to explain the spatial interpolation method for safe winter chill of deciduous fruit trees in South America, which you can find [here](http://htmlpreview.github.io/?https://github.com/larscaspersen/larscaspersen/blob/04f00c40a5f30655d6970e498b419910726da1da/explain-interpolation-concept.html).
+Hello, my name is Lars Caspersen and I am a PhD candidate at the INRES-Horticulture group at the University of Bonn, Germany. I work on dormancy and phenology modelling of temperate fruit tree. Furthermore I also work on decision analysis
 <!--
 **larscaspersen/larscaspersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
